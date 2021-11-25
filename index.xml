@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Make The Final</title>
-    <link>http://makethefinal.ca/</link>
+    <link>http://andrewflemming.net/make-the-final/</link>
     <description>Recent content on Make The Final</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Nov 2021 15:02:36 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Nov 2021 15:02:36 -0500</lastBuildDate><atom:link href="http://andrewflemming.net/make-the-final/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Looking to make something of what appears to be nothing</title>
-      <link>http://makethefinal.ca/posts/my-first-post/</link>
+      <link>http://andrewflemming.net/make-the-final/posts/my-first-post/</link>
       <pubDate>Thu, 25 Nov 2021 15:02:36 -0500</pubDate>
       
-      <guid>http://makethefinal.ca/posts/my-first-post/</guid>
+      <guid>http://andrewflemming.net/make-the-final/posts/my-first-post/</guid>
       <description> 2021 Olympic Trials, Homan vs. McCarville  </description>
     </item>
     
