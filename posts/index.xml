@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Make The Final</title>
+    <link>http://makethefinal.ca/posts/</link>
+    <description>Recent content in Posts on Make The Final</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 15:02:36 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looking to make something of what appears to be nothing</title>
+      <link>http://makethefinal.ca/posts/my-first-post/</link>
+      <pubDate>Thu, 25 Nov 2021 15:02:36 -0500</pubDate>
+      
+      <guid>http://makethefinal.ca/posts/my-first-post/</guid>
+      <description> 2021 Olympic Trials, Homan vs. McCarville  </description>
+    </item>
+    
+  </channel>
+</rss>
