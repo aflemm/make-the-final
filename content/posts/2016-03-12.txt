@@ -1,6 +1,0 @@
----
-title: "Magic Mike! Magic Mike!"
-date: 2016-03-12T21:22-05:00
-draft: false
----
-- 2016 Brier March 12th, 2016 9:22pm

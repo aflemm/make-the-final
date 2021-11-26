@@ -1,6 +1,0 @@
----
-title: "Up the back end goes, and here we go!"
-date: 2015-03-08T20:56-05:00
-draft: false
----
-- 2015 Brier final, CA vs NO March 8th, 2015 8:56pm
