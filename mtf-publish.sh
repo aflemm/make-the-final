@@ -3,5 +3,5 @@
 git pull
 /usr/local/bin/hugo -D
 git add -A
-git commit -m "New Post"
+git commit -m "Publishing"
 git push
