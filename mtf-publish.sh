@@ -1,8 +1,7 @@
 #!/bin/bash
 
-cd ~/GitHub/make-the-final
 git pull
-hugo -D
+/usr/local/bin/hugo -D
 git add -A
 git commit -m "New Post"
 git push
