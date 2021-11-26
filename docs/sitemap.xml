@@ -2,19 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://andrewflemming.net/make-the-final/posts/2021-11-25-test/</loc>
-    <lastmod>2021-11-25T15:02:36-05:00</lastmod>
-  </url><url>
-    <loc>http://andrewflemming.net/make-the-final/posts/my-first-post/</loc>
-    <lastmod>2021-11-25T15:02:36-05:00</lastmod>
+    <loc>http://andrewflemming.net/make-the-final/categories/</loc>
   </url><url>
     <loc>http://andrewflemming.net/make-the-final/</loc>
-    <lastmod>2021-11-25T15:02:36-05:00</lastmod>
-  </url><url>
-    <loc>http://andrewflemming.net/make-the-final/posts/</loc>
-    <lastmod>2021-11-25T15:02:36-05:00</lastmod>
-  </url><url>
-    <loc>http://andrewflemming.net/make-the-final/categories/</loc>
   </url><url>
     <loc>http://andrewflemming.net/make-the-final/tags/</loc>
   </url>
