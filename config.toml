@@ -1,5 +1,4 @@
-baseURL = 'http://andrewflemming.net/make-the-final/'
-#baseURL = 'http://makethefinal.ca/'
+baseURL = 'http://makethefinal.ca/'
 languageCode = 'en-us'
 title = 'Make The Final'
 theme = "ananke"
