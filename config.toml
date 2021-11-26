@@ -7,7 +7,7 @@ Paginate = 1000
 SectionPagesMenu = "main"
 
 [params]
-  author = "Andrew Flemming"
+  #author = "Andrew Flemming"
   twitter = "https://twitter.com/aflemm"
   description = "Memorable moments in curling punctuated by the poetic musings of Vic Rauter. A blog by Andrew Flemming."
 
