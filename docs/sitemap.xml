@@ -2,22 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://makethefinal.ca/</loc>
-    <lastmod>2021-11-25T23:32:50-05:00</lastmod>
-  </url><url>
-    <loc>http://makethefinal.ca/posts/</loc>
-    <lastmod>2021-11-25T23:32:50-05:00</lastmod>
-  </url><url>
-    <loc>http://makethefinal.ca/posts/2021-11-25-silly/</loc>
-    <lastmod>2021-11-25T23:32:50-05:00</lastmod>
-  </url><url>
     <loc>http://makethefinal.ca/posts/2021-11-25-lose-win-lose/</loc>
     <lastmod>2021-11-25T21:49:50-05:00</lastmod>
   </url><url>
-    <loc>http://makethefinal.ca/posts/2021-11-25/</loc>
+    <loc>http://makethefinal.ca/</loc>
+    <lastmod>2021-11-25T21:49:50-05:00</lastmod>
+  </url><url>
+    <loc>http://makethefinal.ca/posts/</loc>
+    <lastmod>2021-11-25T21:49:50-05:00</lastmod>
+  </url><url>
+    <loc>http://makethefinal.ca/posts/2021-11-25-something-of-nothing/</loc>
     <lastmod>2021-11-25T10:39:00-05:00</lastmod>
   </url><url>
-    <loc>http://makethefinal.ca/posts/2021-11-23/</loc>
+    <loc>http://makethefinal.ca/posts/2021-11-23-elastic-band/</loc>
     <lastmod>2021-11-23T20:51:00-05:00</lastmod>
   </url><url>
     <loc>http://makethefinal.ca/posts/2021-04-08/</loc>
