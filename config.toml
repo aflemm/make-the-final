@@ -5,6 +5,7 @@ theme = "ananke"
 publishDir = 'docs'
 Paginate = 1000
 SectionPagesMenu = "main"
+Copyright = "Andrew Flemming"
 
 [params]
   #author = "Andrew Flemming"
