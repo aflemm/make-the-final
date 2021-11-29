@@ -3,4 +3,4 @@ title: "I know you don’t have the hammer, but would you consider throwing a co
 date: 2013-02-24T19:58:00-05:00
 draft: false
 ---
-- 2013 Scottie’s Final
+- 2013 Scotties Final
