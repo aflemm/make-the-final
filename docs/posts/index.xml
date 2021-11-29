@@ -6,16 +6,7 @@
     <description>Recent content in Posts on Make The Final</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 14:26:31 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My feet hurt</title>
-      <link>http://makethefinal.ca/posts/2021-11-29-feet/</link>
-      <pubDate>Mon, 29 Nov 2021 14:26:31 -0500</pubDate>
-      
-      <guid>http://makethefinal.ca/posts/2021-11-29-feet/</guid>
-      <description>2022 Scotties, Me vs Them  In reference to his feet</description>
-    </item>
-    
+    <lastBuildDate>Sat, 27 Nov 2021 16:40:15 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>You can just hear it beep as it goes backwards</title>
       <link>http://makethefinal.ca/posts/2021-11-27-hear-it-beep/</link>
@@ -1517,6 +1508,15 @@
       
       <guid>http://makethefinal.ca/posts/2013-02-22/</guid>
       <description> February 22nd, 2013 9:51pm  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://makethefinal.ca/posts/2021-11-29-feet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://makethefinal.ca/posts/2021-11-29-feet/</guid>
+      <description></description>
     </item>
     
   </channel>
