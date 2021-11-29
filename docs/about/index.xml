@@ -5,6 +5,7 @@
     <link>http://makethefinal.ca/about/</link>
     <description>Recent content in About on Make The Final</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://makethefinal.ca/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>Andrew Flemming</copyright><atom:link href="http://makethefinal.ca/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
