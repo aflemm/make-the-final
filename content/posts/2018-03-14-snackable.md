@@ -1,5 +1,5 @@
 ---
-title: "That’s a snack-able stone!"
+title: "That’s a snackable stone!"
 date: 2018-03-14T10:39:00-05:00
 draft: false
 ---
