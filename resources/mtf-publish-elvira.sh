@@ -2,7 +2,7 @@
 
 git pull
 
-rm docs 
+rm -rf docs
 
 /opt/homebrew/bin/hugo -D
 
