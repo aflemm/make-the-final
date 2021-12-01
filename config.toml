@@ -4,8 +4,16 @@ title = 'Make The Final'
 theme = "ananke"
 publishDir = 'docs'
 Paginate = 1000
-SectionPagesMenu = "main"
+SectionPagesMenu = "about"
 Copyright = "Andrew Flemming"
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  title = 'about'
+  url = '/about/'
+  weight = -110
 
 [params]
   #author = "Andrew Flemming"
