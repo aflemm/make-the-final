@@ -3,4 +3,4 @@ title: "They love that last rock, they don’t want to give it away!"
 date: 2018-03-14T10:53:00-05:00
 draft: false
 ---
-- 2018 Brier, Final - CA vs AB
+— 2018 Brier, Final - CA vs AB
