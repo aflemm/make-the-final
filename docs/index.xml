@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Andrew Flemming</copyright>
-    <lastBuildDate>Sat, 27 Nov 2021 16:40:15 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Dec 2021 13:35:50 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is a test</title>
+      <link>http://makethefinal.ca/posts/2021-12-01-test/</link>
+      <pubDate>Wed, 01 Dec 2021 13:35:50 -0500</pubDate>
+      
+      <guid>http://makethefinal.ca/posts/2021-12-01-test/</guid>
+      <description>2022 Continental Cup, One vs Two  Big hat</description>
+    </item>
+    
     <item>
       <title>You can just hear it beep as it goes backwards</title>
       <link>http://makethefinal.ca/posts/2021-11-27-hear-it-beep/</link>
