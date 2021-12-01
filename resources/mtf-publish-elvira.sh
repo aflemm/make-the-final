@@ -4,7 +4,8 @@
 git pull
 
 # Always perform a clean build by first deleting the publishing directory
-rm -rf docs
+# This seems to force Github to re-provision the TLS certificate, so don't
+#rm -rf docs
 
 # Build the site
 /opt/homebrew/bin/hugo -D
