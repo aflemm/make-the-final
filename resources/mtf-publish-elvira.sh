@@ -10,5 +10,5 @@ then
 fi
  
 git add -A
-git commit -m "Publishing"
+git commit -m "Publishing from Elvira"
 git push
