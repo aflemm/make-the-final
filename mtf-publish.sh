@@ -3,7 +3,7 @@
 git pull
 /opt/homebrew/bin/hugo -D
 
-if ![ -e docs/CNAME]
+if [ -e docs/CNAME]
 then
   echo "not found"
 else
