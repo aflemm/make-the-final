@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://makethefinal.ca/tags/2021-olympic-trials/</loc>
+    <lastmod>2021-11-27T16:40:15-05:00</lastmod>
+  </url><url>
     <loc>http://makethefinal.ca/</loc>
     <lastmod>2021-11-27T16:40:15-05:00</lastmod>
   </url><url>
     <loc>http://makethefinal.ca/posts/</loc>
+    <lastmod>2021-11-27T16:40:15-05:00</lastmod>
+  </url><url>
+    <loc>http://makethefinal.ca/tags/</loc>
     <lastmod>2021-11-27T16:40:15-05:00</lastmod>
   </url><url>
     <loc>http://makethefinal.ca/posts/2021-11-27-hear-it-beep/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2021-04-08T22:06:00-05:00</lastmod>
   </url><url>
     <loc>http://makethefinal.ca/posts/2021-04-08-fight/</loc>
-    <lastmod>2021-04-08T22:06:00-05:00</lastmod>
-  </url><url>
-    <loc>http://makethefinal.ca/tags/</loc>
     <lastmod>2021-04-08T22:06:00-05:00</lastmod>
   </url><url>
     <loc>http://makethefinal.ca/posts/2021-04-08-brain-muscle/</loc>
