@@ -1,6 +1,9 @@
 #!/bin/bash
 
 git pull
+
+rm docs 
+
 /opt/homebrew/bin/hugo -D
 
 if ! [ -e docs/CNAME ]
