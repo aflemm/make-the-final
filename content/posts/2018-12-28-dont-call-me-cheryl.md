@@ -4,3 +4,5 @@ date: 2018-12-28T19:13:00-05:00
 draft: false
 ---
 — 2018 Continental Cup Final, Jacobs vs. Koe
+<!--more--> 
+

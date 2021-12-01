@@ -4,3 +4,5 @@ date: 2018-03-10T08:48:00-05:00
 draft: false
 ---
 — 2018 Brier, NS vs BC
+<!--more--> 
+

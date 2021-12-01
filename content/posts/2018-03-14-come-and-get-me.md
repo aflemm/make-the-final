@@ -4,3 +4,5 @@ date: 2018-03-14T10:52:00-05:00
 draft: false
 ---
 — 2018 Brier, ON vs CA
+<!--more--> 
+
