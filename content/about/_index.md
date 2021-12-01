@@ -9,4 +9,6 @@ The dream was simple – a coffee table book featuring full-page images of great
 
 Instead we have this blog.
 
+Every post on this site is a direct quotation from Vic.
+
 — by [Andrew Flemming](https://andrewflemming.net)
