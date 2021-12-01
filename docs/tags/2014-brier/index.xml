@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2014 Brier on Make The Final</title>
+    <link>http://makethefinal.ca/tags/2014-brier/</link>
+    <description>Recent content in 2014 Brier on Make The Final</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Andrew Flemming</copyright>
+    <lastBuildDate>Sun, 02 Mar 2014 17:17:00 -0500</lastBuildDate><atom:link href="http://makethefinal.ca/tags/2014-brier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I love it when they back up</title>
+      <link>http://makethefinal.ca/posts/2014-03-02-back-up/</link>
+      <pubDate>Sun, 02 Mar 2014 17:17:00 -0500</pubDate>
+      
+      <guid>http://makethefinal.ca/posts/2014-03-02-back-up/</guid>
+      <description>&lt;p&gt;— 2014 Brier, ON vs NL&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lovely, lovely, lovely, that’s a scootch!</title>
+      <link>http://makethefinal.ca/posts/2014-03-02-scootch/</link>
+      <pubDate>Sun, 02 Mar 2014 00:22:00 -0500</pubDate>
+      
+      <guid>http://makethefinal.ca/posts/2014-03-02-scootch/</guid>
+      <description>&lt;p&gt;— 2014 Brier, MB vs NL&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
