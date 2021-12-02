@@ -8,14 +8,16 @@ git pull
 #rm -rf docs
 
 # Build the site
+# This is the full hugo path for Elvira so I can execute this script from iOS over SSH
 /opt/homebrew/bin/hugo -D
 
 # Make sure the CNAME doc is present (tells Github to use http://makethefinal.ca)
-if ! [ -e docs/CNAME ]
-then
-  echo "CNAME not found, copying from resources"
-  cp resources/CNAME docs/CNAME
-fi
+# This is assured by the CNAME file being in the /static folder. Don't need this ⬇️
+#if ! [ -e docs/CNAME ]
+#then
+#  echo "CNAME not found, copying from resources"
+#  cp resources/CNAME docs/CNAME
+#fi
 
 # Stage all changes
 git add -A
