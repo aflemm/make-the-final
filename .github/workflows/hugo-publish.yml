@@ -48,7 +48,7 @@ jobs:
           if [ "`git status -s`" ]
           then
             git add --all
-            git commit -am "deployed: ${{ steps.vars.outputs.commit_msg }}"
+            git commit -am "Published: ${{ steps.vars.outputs.commit_msg }}"
           fi     
 
       - name: deploy
