@@ -25,11 +25,11 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: clean up
-        run: |
-          if [ -d "docs" ]; then
-            rm -rf docs
-          fi
+#      - name: clean up
+#        run: |
+#          if [ -d "docs" ]; then
+#            rm -rf docs
+#          fi
 
       - name: setup
         id: vars
