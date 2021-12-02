@@ -27,11 +27,11 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      - name: clean up
-        run: |
-          if [ -d "public" ]; then
-            rm -rf public
-          fi
+#      - name: clean up
+#        run: |
+#          if [ -d "docs" ]; then
+#            rm -rf docs
+#          fi
 
       - name: setup
         id: vars
@@ -44,7 +44,7 @@ jobs:
 
       - name: commit
         run: |
-          cd public
+          cd docs
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           if [ "`git status -s`" ]
