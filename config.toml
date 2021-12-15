@@ -1,4 +1,4 @@
-baseURL = 'http://makethefinal.ca/'
+baseURL = 'https://makethefinal.ca/'
 languageCode = 'en-us'
 title = 'Make The Final'
 theme = "ananke"
