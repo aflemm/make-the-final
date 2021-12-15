@@ -7,6 +7,14 @@ Paginate = 1000
 SectionPagesMenu = "about"
 Copyright = "Andrew Flemming"
 
+[outputs]
+  home = [ "RSS", "HTML"]
+  section  = ["HTML"]
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
+
 [menu]
 [[menu.main]]
   identifier = 'about'
