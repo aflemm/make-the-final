@@ -1,6 +1,8 @@
 ---
 title: "What is this site?"
 #description: "By Andrew Flemming"
+
+menu: main
 ---
 
 A collection of the hilarious (and often poetic) musings and exclamations of [Vic Rauter](https://en.wikipedia.org/wiki/Vic_Rauter). Every post on this site is a direct quotation from Vic during a curling broadcast.
