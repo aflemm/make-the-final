@@ -4,7 +4,7 @@ title = 'Make The Final'
 theme = "ananke"
 publishDir = 'docs'
 Paginate = 1000
-SectionPagesMenu = main
+SectionPagesMenu = "main"
 Copyright = "Andrew Flemming"
 
 [outputs]
