@@ -1,5 +1,6 @@
 ---
 title: "What is this site?"
+linktitle: "About"
 #description: "By Andrew Flemming"
 
 menu: main
