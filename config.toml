@@ -4,7 +4,7 @@ title = 'Make The Final'
 theme = "ananke"
 publishDir = 'docs'
 Paginate = 1000
-SectionPagesMenu = "main"
+SectionPagesMenu = "about"
 Copyright = "Andrew Flemming"
 
 [outputs]
@@ -15,6 +15,17 @@ Copyright = "Andrew Flemming"
     mediatype = "application/rss"
     baseName = "feed"
 
+[menu]
+[[menu.about]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 1
+[[menu.about]]
+  identifier = 'submission'
+  name = 'Submission'
+  url = '/submit/'
+  weight = 2
 
 [params]
   author = "Vic Rauter"
