@@ -18,13 +18,13 @@ Be sure to provide me as much context for when Vic said this, I won't post anyth
 <fieldset id="fs-frm-inputs">
 
   <p>Your name and contact (for attribution):</p>
-  <input class="w-100-ns f6" name="contact" required=""></input>
+  <input class="w-100 f6" name="contact" required=""></input>
   
   <p>What did Vic say?</p>
-  <input class="w-100-ns f6" name="submission" required=""></input>  
+  <input class="w-100 f6" name="submission" required=""></input>  
 
   <p>What was the game and the approximate end?</p>
-  <input class="w-100-ns f6" name="context" required=""></input>    
+  <input class="w-100 f6" name="context" required=""></input>    
 
   <p class="">
   <button class="ph2 pv2" type="submit">Send</button>
