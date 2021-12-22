@@ -38,3 +38,5 @@ Copyright = "Andrew Flemming"
   background_color_class = "bg-navy"#"bg-black"
   #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 5
+  
+  env = "production"
