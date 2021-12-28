@@ -23,7 +23,7 @@ Be sure to provide me as much context for when Vic said this, I won't post anyth
   <p>What did Vic say?</p>
   <input class="w-100 f6" name="submission" required=""></input>  
 
-  <p>What was the game and the approximate end?</p>
+  <p>In which game and end?</p>
   <input class="w-100 f6" name="context" required=""></input>    
 
   <p class="">
