@@ -7,3 +7,4 @@ tags: [2021 Olympic Trials]
 — 2021 Olympic Trials, Jones vs. Einarson
 <!--more--> 
 
+Referring to Shannon Birchard's release.
