@@ -2,7 +2,7 @@
 title: "What is this site?"
 linktitle: "About"
 #description: "By Andrew Flemming"
-
+type: 'page'
 menu: main
 ---
 
