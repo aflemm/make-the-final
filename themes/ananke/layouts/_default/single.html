@@ -21,7 +21,7 @@
       </h1>
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
-          By <strong>
+          — <strong>
           {{ if reflect.IsSlice . }}
               {{ delimit . ", " | markdownify }}
           {{else}}
@@ -52,6 +52,9 @@
       {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">
+      
+      {{- partial "google-square-ad.html" . -}}
+      
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}
