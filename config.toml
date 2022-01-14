@@ -16,6 +16,11 @@ Copyright = "Andrew Flemming"
     mediatype = "application/rss"
     baseName = "feed"
 
+  [outputFormats.json]
+    mediatype = "application/json"
+    baseName = "data"
+
+
 [menu]
 [[menu.main]]
   identifier = 'random'
