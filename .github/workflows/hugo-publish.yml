@@ -40,7 +40,7 @@ jobs:
           
 
       - name: build
-        run: hugo --minify
+        run: hugo --cleanDestinationDir --minify
 
       - name: commit
         run: |
