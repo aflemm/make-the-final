@@ -9,7 +9,8 @@ Copyright = "Andrew Flemming"
 
 [outputs]
   home = [ "RSS", "HTML"]
-  section  = ["HTML"]
+  section  = ["HTML", "json"]
+  page = ["json"]
 [outputFormats]
   [outputFormats.RSS]
     mediatype = "application/rss"
