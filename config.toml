@@ -16,16 +16,21 @@ Copyright = "Andrew Flemming"
     baseName = "feed"
 
 [menu]
-[[menu.about]]
+[[menu.main]]
+  identifier = 'random'
+  name = 'Random Post'
+  url = '/random/'
+  weight = 1
+[[menu.main]]
   identifier = 'about'
   name = 'About'
   url = '/about/'
-  weight = 1
-[[menu.about]]
+  weight = 100
+[[menu.main]]
   identifier = 'submission'
-  name = 'Submission'
+  name = 'Submissions'
   url = '/submit/'
-  weight = 2
+  weight = 20
 
 [params]
   author = "Vic Rauter"

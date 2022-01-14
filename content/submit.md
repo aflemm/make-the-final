@@ -3,7 +3,6 @@ title: "Send a Submission"
 linktitle: "Submission"
 #description: "By Andrew Flemming"
 type: 'page'
-menu: main
 ---
 Did you hear Vic say something hilarious? It could be from a current game or archival footage. Send me a submission using the form below, and I will post it to the site.
 
