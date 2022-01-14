@@ -6,5 +6,5 @@ tags: [2019 Continental Cup]
 event: "2019 Continental Cup"
 game: "Jones vs Muirhead (Scramble)"
 ---
-— 2019 Continental Cup, Jones vs Muirhead (Scramble)
+{{< game-details >}}
 <!--more--> 

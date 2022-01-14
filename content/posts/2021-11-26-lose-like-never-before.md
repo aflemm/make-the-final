@@ -6,5 +6,5 @@ tags: [2021 Olympic Trials]
 event: "2021 Olympic Trials"
 game: "Einarson vs Rocque"
 ---
-— 2021 Olympic Trials, Einarson vs Rocque
+{{< game-details >}}
 <!--more--> 

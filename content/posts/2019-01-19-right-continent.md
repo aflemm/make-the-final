@@ -6,5 +6,5 @@ tags: [2019 Continental Cup]
 event: "2019 Continental Cup"
 game: "Homan vs Hasselborg (Mixed)"
 ---
-— 2019 Continental Cup, Homan vs Hasselborg (Mixed)
+{{< game-details >}}
 <!--more--> 

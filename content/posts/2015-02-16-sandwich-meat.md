@@ -6,5 +6,5 @@ tags: [2015 Scotties]
 event: "2015 Scotties"
 game: "CA vs MB"
 ---
-— 2015 Scotties, CA vs MB
+{{< game-details >}}
 <!--more--> 

@@ -6,5 +6,5 @@ tags: [2018 Canada Cup]
 event: "2018 Canada Cup"
 game: "Homan vs Flaxey"
 ---
-— 2018 Canada Cup, Homan vs Flaxey
+{{< game-details >}}
 <!--more--> 

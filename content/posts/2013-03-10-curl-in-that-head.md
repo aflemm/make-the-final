@@ -6,6 +6,6 @@ tags: [2013 Brier]
 event: "2013 Brier"
 game: "Semi-final"
 ---
-— 2013 Brier, Semi-final
+{{< game-details >}}
 <!--more--> 
 Referring to Brad Jacobs’ head

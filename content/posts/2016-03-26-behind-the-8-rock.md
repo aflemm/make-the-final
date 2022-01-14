@@ -6,5 +6,5 @@ tags: [2016 Women’s Worlds]
 event: "2016 Women’s Worlds 3-4 Game"
 game: "CAN vs RUS"
 ---
-— 2016 Women’s Worlds 3-4 Game, CAN vs RUS
+{{< game-details >}}
 <!--more--> 

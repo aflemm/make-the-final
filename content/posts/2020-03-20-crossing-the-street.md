@@ -6,5 +6,5 @@ tags: [2019 Women’s Worlds]
 event: "2019 Women’s Worlds"
 game: "Semi-final - SUI vs KOR"
 ---
-— 2019 Women’s Worlds semi-final, SUI vs KOR
+{{< game-details >}}
 <!--more--> 

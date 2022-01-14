@@ -6,5 +6,5 @@ tags: [2020 Scotties]
 event: "2020 Scotties"
 game: "MB vs CA"
 ---
-— 2020 Scotties, MB vs CA
+{{< game-details >}}
 <!--more--> 

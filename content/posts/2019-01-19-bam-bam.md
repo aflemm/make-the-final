@@ -6,5 +6,5 @@ tags: [2019 Continental Cup]
 event: "2019 Continental Cup"
 game: "Gushue vs Mouat"
 ---
-— 2019 Continental Cup, Gushue vs Mouat
+{{< game-details >}}
 <!--more--> 

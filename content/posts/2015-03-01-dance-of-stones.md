@@ -6,5 +6,5 @@ tags: [2015 Brier]
 event: "2015 Brier"
 game: "ON vs AB"
 ---
-— 2015 Brier, ON vs AB
+{{< game-details >}}
 <!--more--> 

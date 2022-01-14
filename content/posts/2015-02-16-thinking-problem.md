@@ -6,5 +6,5 @@ tags: [2015 Scotties]
 event: "2015 Scotties"
 game: "NB vs NS"
 ---
-— 2015 Scotties, NB vs NS
+{{< game-details >}}
 <!--more--> 

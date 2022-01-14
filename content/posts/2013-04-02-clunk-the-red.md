@@ -6,5 +6,5 @@ tags: [2013 Men’s Worlds]
 event: "2013 Men’s Worlds"
 game: "Men’s Worlds"
 ---
-— 2013 Men’s Worlds
+{{< game-details >}}
 <!--more--> 

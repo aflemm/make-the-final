@@ -6,5 +6,5 @@ tags: [2017 Scotties]
 event: "2017 Scotties"
 game: "QC vs NL"
 ---
-— 2017 Scotties, QC vs NL
+{{< game-details >}}
 <!--more--> 

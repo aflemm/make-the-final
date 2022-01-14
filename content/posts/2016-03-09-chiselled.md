@@ -6,6 +6,6 @@ tags: [2016 Brier]
 event: "2016 Brier"
 game: "NL vs QC"
 ---
-— 2016 Brier, NL vs QC
+{{< game-details >}}
 <!--more--> 
 Fawning over Brett Gallant

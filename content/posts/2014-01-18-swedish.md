@@ -6,5 +6,5 @@ tags: [2014 Continental Cup]
 event: "2014 Continental Cup"
 game: ""
 ---
-— 2014 Continental Cup
+{{< game-details >}}
 <!--more--> 

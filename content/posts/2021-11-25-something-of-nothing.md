@@ -6,5 +6,5 @@ tags: [2021 Olympic Trials]
 event: "2021 Olympic Trials"
 game: "Homan vs McCarville"
 ---
-— 2021 Olympic Trials, Homan vs. McCarville
+{{< game-details >}}
 <!--more--> 

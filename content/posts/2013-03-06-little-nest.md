@@ -6,5 +6,5 @@ tags: [2013 Brier]
 event: "2013 Brier"
 game: "NO vs QC"
 ---
-— 2013 Brier, NO vs QC
+{{< game-details >}}
 <!--more--> 

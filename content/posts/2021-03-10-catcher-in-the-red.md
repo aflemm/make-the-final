@@ -6,5 +6,5 @@ tags: [2021 Brier]
 event: "2021 Brier"
 game: "WC2 vs ON"
 ---
-— 2021 Brier, WC2 vs ON
+{{< game-details >}}
 <!--more--> 

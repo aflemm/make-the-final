@@ -6,5 +6,5 @@ tags: [2020 Brier]
 event: "2020 Brier"
 game: "WC game"
 ---
-— 2020 Brier, WC game
+{{< game-details >}}
 <!--more--> 

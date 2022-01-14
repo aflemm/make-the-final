@@ -6,5 +6,5 @@ tags: [2021 Brier]
 event: "2021 Brier"
 game: "NS vs QC"
 ---
-— 2021 Brier, NS vs QC
+{{< game-details >}}
 <!--more--> 

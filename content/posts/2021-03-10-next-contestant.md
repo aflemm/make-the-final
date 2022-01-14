@@ -6,5 +6,5 @@ tags: [2021 Scotties]
 event: "2021 Scotties Final"
 game: "ON vs CAN"
 ---
-— 2021 Scotties Final, ON vs CAN
+{{< game-details >}}
 <!--more--> 

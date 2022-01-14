@@ -6,5 +6,5 @@ tags: [2018 Brier]
 event: "2018 Brier"
 game: "ON vs CA"
 ---
-— 2018 Brier, ON vs CA
+{{< game-details >}}
 <!--more--> 

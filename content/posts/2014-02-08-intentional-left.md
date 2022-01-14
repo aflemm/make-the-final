@@ -6,5 +6,5 @@ tags: [2014 Scotties]
 event: "2014 Scotties Semi-final"
 game: "AB vs MB"
 ---
-— 2014 Scotties Semi-final, AB vs MB
+{{< game-details >}}
 <!--more--> 

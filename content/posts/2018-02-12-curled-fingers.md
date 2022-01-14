@@ -6,5 +6,5 @@ tags: [2018 Scotties]
 event: "2018 Scotties"
 game: "ON vs MB"
 ---
-— 2018 Scotties, ON vs MB
+{{< game-details >}}
 <!--more--> 

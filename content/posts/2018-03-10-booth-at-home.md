@@ -6,6 +6,6 @@ tags: [2018 Brier]
 event: "2018 Brier"
 game: "NS vs BC"
 ---
-— 2018 Brier, NS vs BC
+{{< game-details >}}
 <!--more--> 
 Here's a link to this one on [YouTube](https://youtu.be/PIt5E0tWjt4?t=56m). I recommend listening to it at 0.5x speed, it's absolutely delightful!

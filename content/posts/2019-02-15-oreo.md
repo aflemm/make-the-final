@@ -6,5 +6,5 @@ tags: [2019 Scotties]
 event: "2019 Scotties"
 game: "Wildcard Qualifier"
 ---
-— 2019 Scotties - Wildcard Qualifier
+{{< game-details >}}
 <!--more--> 

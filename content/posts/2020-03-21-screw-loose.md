@@ -6,5 +6,5 @@ tags: [2018 Women’s Worlds]
 event: "2018 Women’s Worlds"
 game: "CAN vs JPN"
 ---
-— 2018 Women’s Worlds, CAN vs JPN
+{{< game-details >}}
 <!--more--> 

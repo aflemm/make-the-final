@@ -6,5 +6,5 @@ tags: [2020 Continental Cup]
 event: "2020 Continental Cup"
 game: ""
 ---
-— 2020 Continental Cup
+{{< game-details >}}
 <!--more--> 

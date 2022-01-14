@@ -6,5 +6,5 @@ tags: [2018 Scotties]
 event: "2018 Scotties 1-2 Game"
 game: "MB vs WC"
 ---
-— 2018 Scotties 1-2 Game, MB vs WC
+{{< game-details >}}
 <!--more--> 

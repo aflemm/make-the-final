@@ -6,5 +6,5 @@ tags: [2016 Brier]
 event: "2016 Brier"
 game: ""
 ---
-— 2016 Brier
+{{< game-details >}}
 <!--more--> 

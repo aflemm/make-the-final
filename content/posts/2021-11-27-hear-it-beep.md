@@ -6,5 +6,5 @@ tags: [2021 Olympic Trials]
 event: "2021 Olympic Trials"
 game: "Semi Final - Koe vs Jacobs"
 ---
-— 2021 Olympic Trials, Semi Final - Koe vs Jacobs
+{{< game-details >}}
 <!--more--> 

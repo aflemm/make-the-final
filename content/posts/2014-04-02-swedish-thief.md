@@ -6,5 +6,5 @@ tags: [2014 Men’s Worlds]
 event: "2014 Men’s Worlds"
 game: "Canada vs Sweden"
 ---
-— 2014 Men’s Worlds, Canada vs Sweden
+{{< game-details >}}
 <!--more--> 

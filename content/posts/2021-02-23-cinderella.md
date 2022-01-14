@@ -6,5 +6,5 @@ tags: [2021 Scotties]
 event: "2021 Scotties"
 game: "QC vs PEI"
 ---
-— 2021 Scotties, QC vs PEI
+{{< game-details >}}
 <!--more--> 

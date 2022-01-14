@@ -6,5 +6,5 @@ tags: [2019 Women’s Worlds]
 event: "2019 Women’s Worlds"
 game: "Korea vs Canada"
 ---
-— 2019 Women’s Worlds, Korea vs Canada
+{{< game-details >}}
 <!--more--> 

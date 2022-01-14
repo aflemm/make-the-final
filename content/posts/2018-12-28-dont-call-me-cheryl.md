@@ -6,5 +6,5 @@ tags: [2018 Continental Cup]
 event: "2018 Continental Cup Final"
 game: "Jacobs vs Koe"
 ---
-— 2018 Continental Cup Final, Jacobs vs. Koe
+{{< game-details >}}
 <!--more--> 

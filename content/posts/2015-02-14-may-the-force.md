@@ -6,5 +6,5 @@ tags: [2015 Scotties]
 event: "2015 Scotties"
 game: "Relegation Final - NO vs NWT"
 ---
-— 2015 Scotties Relegation Final, NO vs NWT
+{{< game-details >}}
 <!--more--> 

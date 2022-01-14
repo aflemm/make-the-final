@@ -6,6 +6,6 @@ tags: [2021 Olympic Trials]
 event: "2021 Olympic Trials"
 game: "Jones vs Einarson"
 ---
-— 2021 Olympic Trials, Jones vs. Einarson
+{{< game-details >}}
 <!--more--> 
 Referring to Shannon Birchard's release.

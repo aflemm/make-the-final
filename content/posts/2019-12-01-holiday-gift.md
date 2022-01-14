@@ -6,5 +6,5 @@ tags: [2019 Canada Cup]
 event: "2019 Canada Cup"
 game: "Final - Homan vs Fleury"
 ---
-— 2019 Canada Cup final, Homan vs Fleury
+{{< game-details >}}
 <!--more--> 

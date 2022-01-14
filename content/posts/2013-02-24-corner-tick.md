@@ -6,5 +6,5 @@ tags: [2013 Scotties]
 event: "2013 Scotties"
 game: "Final"
 ---
-— 2013 Scotties Final
+{{< game-details >}}
 <!--more--> 

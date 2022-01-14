@@ -6,5 +6,5 @@ tags: [2020 Scotties]
 event: "2020 Scotties"
 game: "SK vs NO"
 ---
-— 2020 Scotties, SK vs NO
+{{< game-details >}}
 <!--more--> 

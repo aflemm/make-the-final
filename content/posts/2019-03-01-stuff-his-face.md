@@ -6,6 +6,6 @@ tags: [2019 Brier]
 event: "2019 Brier"
 game: "Wildcard entry - Botcher vs Epping"
 ---
-— 2019 Brier, Wildcard entry - Botcher vs Epping
+{{< game-details >}}
 <!--more--> 
 

@@ -6,5 +6,5 @@ tags: [2016 Women’s Worlds]
 event: "2016 Women’s Worlds Semi Final"
 game: "JPN vs RUS"
 ---
-— 2016 Women’s Worlds Semi Final, JPN vs RUS
+{{< game-details >}}
 <!--more--> 

@@ -6,5 +6,5 @@ tags: [2016 Scotties]
 event: "2016 Scotties Final"
 game: "NO vs AB"
 ---
-— 2016 Scotties Final, NO vs AB
+{{< game-details >}}
 <!--more--> 

@@ -6,5 +6,5 @@ tags: [2019 Brier]
 event: "2019 Brier Final"
 game: "AB vs WC"
 ---
-— 2019 Brier Final, AB vs WC
+{{< game-details >}}
 <!--more--> 

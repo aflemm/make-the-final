@@ -6,5 +6,5 @@ tags: [2020 Brier]
 event: "2020 Brier"
 game: "NL vs NO"
 ---
-— 2020 Brier, NL vs NO
+{{< game-details >}}
 <!--more--> 

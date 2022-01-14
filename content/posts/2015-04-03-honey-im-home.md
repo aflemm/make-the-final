@@ -6,5 +6,5 @@ tags: [2015 Men’s Worlds]
 event: "2015 Men’s Worlds"
 game: "CAN vs NOR"
 ---
-— 2015 Men’s Worlds, CAN vs NOR
+{{< game-details >}}
 <!--more--> 

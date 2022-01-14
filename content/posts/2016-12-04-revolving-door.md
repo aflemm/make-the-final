@@ -6,5 +6,5 @@ tags: [2016 Canada Cup]
 event: "2016 Canada Cup"
 game: "Men’s Final"
 ---
-— 2016 Canada Cup Men’s Final
+{{< game-details >}}
 <!--more--> 

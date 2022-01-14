@@ -6,5 +6,5 @@ tags: [2017 Scotties]
 event: "2017 Scotties"
 game: "ON vs NO"
 ---
-— 2017 Scotties, ON vs NO
+{{< game-details >}}
 <!--more--> 

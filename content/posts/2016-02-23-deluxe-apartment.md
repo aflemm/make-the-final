@@ -6,5 +6,5 @@ tags: [2016 Scotties]
 event: "2016 Scotties"
 game: "Scotties"
 ---
-— 2016 Scotties
+{{< game-details >}}
 <!--more--> 

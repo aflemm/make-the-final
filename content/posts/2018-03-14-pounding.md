@@ -6,5 +6,5 @@ tags: [2018 Brier]
 event: "2018 Brier"
 game: "AB vs NO"
 ---
-— 2018 Brier, AB vs NO
+{{< game-details >}}
 <!--more--> 

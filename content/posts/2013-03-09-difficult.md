@@ -6,5 +6,5 @@ tags: [2013 Brier]
 event: "2013 Brier"
 game: "3-4 game"
 ---
-— 2013 Brier, 3-4 game
+{{< game-details >}}
 <!--more--> 

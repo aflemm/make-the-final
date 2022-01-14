@@ -6,5 +6,5 @@ tags: [2015 Scotties]
 event: "2015 Scotties"
 game: "MB mini-montage"
 ---
-— 2015 Scotties, MB mini-montage
+{{< game-details >}}
 <!--more--> 

@@ -6,5 +6,5 @@ tags: [2015 TSN Skins]
 event: "2015 TSN Skins"
 game: ""
 ---
-— 2015 TSN Skins
+{{< game-details >}}
 <!--more--> 

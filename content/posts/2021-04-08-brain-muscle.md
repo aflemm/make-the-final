@@ -6,5 +6,5 @@ tags: [2021 Men’s Worlds]
 event: "2021 Men’s Worlds"
 game: "CAN vs SWE"
 ---
-— 2021 Men’s Worlds, CAN vs SWE
+{{< game-details >}}
 <!--more--> 

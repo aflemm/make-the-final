@@ -6,5 +6,5 @@ tags: [2019 TSN Skins]
 event: "2019 TSN Skins"
 game: "Botcher vs Koe"
 ---
-— 2019 TSN Skins - Botcher vs Koe
+{{< game-details >}}
 <!--more--> 

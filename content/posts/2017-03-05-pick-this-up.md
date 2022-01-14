@@ -6,5 +6,5 @@ tags: [2017 Scotties]
 event: "2017 Scotties Final"
 game: "ON vs MB"
 ---
-— 2017 Scotties Final, ON vs MB
+{{< game-details >}}
 <!--more--> 
