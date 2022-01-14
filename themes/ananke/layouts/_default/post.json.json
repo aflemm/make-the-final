@@ -4,6 +4,5 @@
     "event" : "{{ .Params.event }}",
     "game" : "{{ .Params.game }}",
     "tags" : "{{ .Params.tags }}",
-    "html" : "{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}",
-    "json" : "{{ with .OutputFormats.Get "json" }}{{ .Permalink }}{{ end }}" 
+    "permalink" : "{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}",
 }
