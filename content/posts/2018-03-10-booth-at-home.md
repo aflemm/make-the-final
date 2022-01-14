@@ -7,4 +7,4 @@ tags: [2018 Brier]
 — 2018 Brier, NS vs BC
 <!--more--> 
 
-[YouTube](https://youtu.be/PIt5E0tWjt4?t=56m)
+Here's a link to this one on [YouTube](https://youtu.be/PIt5E0tWjt4?t=56m). I recommend listening to it at 0.5x speed, it's absolutely delightful!
