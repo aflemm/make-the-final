@@ -1,6 +1,6 @@
 {
     "title" : "{{ .Title }}",
-    "content" : "{{ .Content }}",
+    "rawContent" : "{{ .RawContent }}",
     "date" : "{{ .Date }}",
     "tags" : "{{ .Params.tags }}",
     "html" : "{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}",
