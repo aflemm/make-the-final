@@ -3,7 +3,8 @@ title: "I know you don’t have the hammer, but would you consider throwing a co
 date: 2013-02-24T19:58:00-05:00
 draft: false
 tags: [2013 Scotties]
+event: "2013 Scotties"
+game: "Final"
 ---
 — 2013 Scotties Final
 <!--more--> 
-
