@@ -1,4 +1,8 @@
 {
-    "post": "{{ .Title }}",
-    "permalink" : "{{ .Permalink }}"
+    "title" : "{{ .Title }}",
+    "content" : "{{ .Content }}",
+    "date" : "{{ .Date }}",
+    "tags" : "{{ .Params.tags }}",
+    "html" : "{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}",
+    "json" : "{{ with .OutputFormats.Get "json" }}{{ .Permalink }}{{ end }}" 
 }
