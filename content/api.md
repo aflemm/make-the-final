@@ -14,7 +14,7 @@ The full body of content is available as a readonly JSON file, found at `https:/
 
 ```json
 {
-"count" : "167",
+"count" : 167,
 "date" : "2022-01-17T15:48:00-05:00",
 "posts" : [
 	{
