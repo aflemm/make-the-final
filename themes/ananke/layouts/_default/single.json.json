@@ -1,1 +1,3 @@
-{{ define "response" }} {{ .Render "post" }} {{ end }}
+{{ define "response" }}
+{{ .Render "post" }}
+{{ end }}

@@ -1,7 +1,11 @@
 {{ define "response" }}
-[
-    {{ range $index, $e := .Data.Pages }}
-    {{ if $index }}, {{ end }}{{ .Render "post" }}
-    {{ end }}
+{
+"count" : "{{ len .Data.Pages }}",
+"date" : "{{ now.Format "2006-01-02T15:04:05-07:00" }}",
+"posts" : [
+{{ range $index, $e := .Data.Pages }}
+{{ if $index }}, {{ end }}{{ .Render "post" }}
+{{ end }}
 ]
+}
 {{ end }}
