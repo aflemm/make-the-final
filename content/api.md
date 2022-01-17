@@ -44,7 +44,16 @@ Additionally, each individual post can be found at `https://makethefinal.ca/post
 }
 ```
 
-Data:
+Data:xc
+
+| Field | Contents |
+| ----- | -------- |
+| count |          |
+| date  |          |
+| posts |          |
+
+Post:
+
 | Field | Contents             |
 | ----- | -------------------- |
 | title | The quotation        |
