@@ -33,6 +33,11 @@ Copyright = "Andrew Flemming"
   url = '/about/'
   weight = 100
 [[menu.main]]
+  identifier = 'api'
+  name = 'API'
+  url = '/api/'
+  weight = 5
+[[menu.main]]
   identifier = 'submission'
   name = 'Submissions'
   url = '/submit/'
