@@ -24,7 +24,7 @@ Copyright = "Andrew Flemming"
 [menu]
 [[menu.main]]
   identifier = 'random'
-  name = 'Random Post'
+  name = 'Random'
   url = '/random/'
   weight = 1
 [[menu.main]]
@@ -39,7 +39,7 @@ Copyright = "Andrew Flemming"
   weight = 5
 [[menu.main]]
   identifier = 'submission'
-  name = 'Submissions'
+  name = 'Submit'
   url = '/submit/'
   weight = 20
 

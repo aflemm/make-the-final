@@ -51,5 +51,5 @@ Have fun!
 | game  | The game the post was from, may be empty                      |
 | tags  | Post tags, in the format: [First tag, Second tag, Third]      |
 | id    | Guaranteed to be unique per post, also serves as the URL slug |
-| url   | URL to the published post on https://makethefinal.ca               |
+| url   | URL to the published post on https://makethefinal.ca          |
 ```
