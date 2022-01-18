@@ -4,6 +4,8 @@ linktitle: "API"
 #description: "By Andrew Flemming"
 Draft: false
 type: 'page'
+typora-root-url: ../static
+typora-copy-images-to: ../static/img
 ---
 
 Yes, MakeTheFinal.ca has an API! (I know, finally, right?) 
@@ -11,6 +13,12 @@ Yes, MakeTheFinal.ca has an API! (I know, finally, right?)
 The full body of content is available in JSON format, found at `https://makethefinal.ca/posts/data.json`.
 
 Additionally, each post can be pulled individually from its own URL: `https://makethefinal.ca/posts/<POST-ID>/data.json`.
+
+## What can we do with this?
+
+Here's an example — [This iOS Shortcut](https://www.icloud.com/shortcuts/fc2f169fd85c445cb62496f687073d1b) will display a random Make the Final post as a notification. You can automate it to run at a specific time (or location perhaps??) for a regular dose of Vic.
+
+![random-vic-screenshots](/img/random-vic-screenshots.png)
 
 Have fun!
 
