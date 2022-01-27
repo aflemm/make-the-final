@@ -6,9 +6,7 @@
 
 <body>
 
-{{ range where $.Site.Pages "Section" "posts" }}
-  {{ $.Scratch.Add "tmp" (slice .RelPermalink) }}
-{{- end -}}
+{{ range where $.Site.RegularPages "Section" "posts" }}{{ $.Scratch.Add "tmp" (slice .RelPermalink) }}{{- end -}}
 {{ $.Scratch.Get "tmp" | jsonify | $.Scratch.Set "tmp" }}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
