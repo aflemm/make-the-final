@@ -1,10 +1,1 @@
-
-{
-    "title" : "What is this site?",
-    "date" : "0001-01-01T00:00:00+00:00",
-    "event" : "<no value>",
-    "game" : "<no value>",
-    "tags" : "<no value>",
-    "id" : "about",
-    "url" : "https://makethefinal.ca/about/"
-}
+{"title":"What is this site?","date":"0001-01-01T00:00:00+00:00","event":"<no value>","game":"<no value>","tags":"<no value>","id":"about","url":"https://makethefinal.ca/about/"}
