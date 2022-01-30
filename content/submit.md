@@ -16,8 +16,11 @@ Be sure to provide me as much context for when Vic said this, I won't post anyth
 >
 <fieldset id="fs-frm-inputs">
 
-  <p>Your name and contact (for attribution):</p>
+  <p>Your name and twitter/instagram (for attribution):</p>
   <input class="w-100 f6" name="contact" required=""></input>
+  
+  <input type="checkbox" id="sharename" name="sharename" value="Share">
+  <label for="sharename"> Share my name/info in the post</label>
   
   <p>What did Vic say?</p>
   <input class="w-100 f6" name="submission" required=""></input>  
