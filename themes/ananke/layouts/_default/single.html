@@ -28,8 +28,18 @@
               {{ . | markdownify }}
           {{ end }}
           </strong>
+          
       </p>
       {{ end }}
+      
+      <p class="tracked">
+      {{ if .Params.contributor }}
+          {{ with .Params.contributor }}
+	          Submitted by <i>{{ . | markdownify }}</i>
+          {{ end }}
+      {{ end }}
+      </p>
+      
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       {{ if not .Date.IsZero }}
       <time class="f6 mv4 dib tracked" {{ printf `datetime="%s"` (.Date.Format "2006-01-02T15:04:05Z07:00") | safeHTMLAttr }}>
