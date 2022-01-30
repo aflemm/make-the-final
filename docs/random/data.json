@@ -1,12 +1,1 @@
-
-{
-    "title" : "Random Post",
-    "date" : "0001-01-01T00:00:00+00:00",
-    "event" : "",
-    "game" : "",
-    "tags" : "[]",
-    "contributor" : "",
-    "contributorLink" : "",
-    "id" : "random",
-    "url" : "https://makethefinal.ca/random/"
-}
+{"title":"Random Post","date":"0001-01-01T00:00:00+00:00","event":"","game":"","tags":"[]","contributor":"","contributorLink":"","id":"random","url":"https://makethefinal.ca/random/"}
