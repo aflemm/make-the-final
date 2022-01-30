@@ -4,6 +4,7 @@
     "event" : "{{ .Params.event }}",
     "game" : "{{ .Params.game }}",
     "tags" : "{{ .Params.tags }}",
+    "contributor" : "{{ .Params.contributor }}",
     "id" : "{{ .File.BaseFileName }}",
     "url" : "{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}"
 }
