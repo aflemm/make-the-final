@@ -1,10 +1,11 @@
 {
     "title" : "{{ .Title }}",
     "date" : "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}",
-    "event" : "{{ .Params.event }}",
-    "game" : "{{ .Params.game }}",
-    "tags" : "{{ .Params.tags }}",
-    "contributor" : "{{ .Params.contributor }}",
+    "event" : {{ if .Params.event }}"{{ .Params.event }}"{{ else }}""{{ end }},
+    "game" : {{ if .Params.game }}"{{ .Params.game }}"{{ else }}""{{ end }},
+    "tags" : {{ if .Params.tags }}"{{ .Params.tags }}"{{ else }}"[]"{{ end }},
+    "contributor" : {{ if .Params.contributor }}"{{ .Params.contributor }}"{{ else }}""{{ end }},
+    "contributorLink" : {{ if .Params.contributorLink }}"{{ .Params.contributorLink }}"{{ else }}""{{ end }},
     "id" : "{{ .File.BaseFileName }}",
     "url" : "{{ with .OutputFormats.Get "HTML" }}{{ .Permalink }}{{ end }}"
 }

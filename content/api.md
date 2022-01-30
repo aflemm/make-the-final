@@ -35,6 +35,8 @@ Have fun!
     "event" : "2013 Brier",
     "game" : "Final",
     "tags" : "[2013 Brier]",
+    "contributor" : "John Doe",
+    "contributorLink" : "https://twitter.com/aflemm",
     "id" : "2013-03-10-be-better",
     "url" : "https://makethefinal.ca/posts/2013-03-10-be-better/"
 	},
@@ -52,12 +54,14 @@ Have fun!
 
 
 | Post
-| ----- | ------------------------------------------------------------- |
-| title | The quotation from Vic                                        |
-| date  | Date of this post, ISO 8601 format                            |
-| event | The event the post was from, may be empty                     |
-| game  | The game the post was from, may be empty                      |
-| tags  | Post tags, in the format: [First tag, Second tag, Third]      |
-| id    | Guaranteed to be unique per post, also serves as the URL slug |
-| url   | URL to the published post on https://makethefinal.ca          |
+| --------------- | ------------------------------------------------------------- |
+| title           | The quotation from Vic                                        |
+| date            | Date of this post, ISO 8601 format                            |
+| event           | The event the post was from, may be empty                     |
+| game            | The game the post was from, may be empty                      |
+| tags            | Post tags, in the format: [First tag, Second tag, Third]      |
+| contributor     | Name of the person who submitted this post (if not me)        |
+| contributorLink | URL to the person who submitted this post (if not me)         |
+| id              | Guaranteed to be unique per post, also serves as the URL slug |
+| url             | URL to the published post on https://makethefinal.ca          |
 ```
