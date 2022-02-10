@@ -24,7 +24,7 @@ What can we do with this? Here&rsquo;s an example — This iOS Shortcut will dis
 The full body of content is available in JSON format, found at https://makethefinal.ca/posts/data.json.
 Additionally, each post can be pulled individually from its own URL: https://makethefinal.ca/posts/<POST-ID>/data.json.
 What can we do with this? Here&rsquo;s an example — This iOS Shortcut will display a random Make the Final post as a notification. You can automate it to run at a specific time (or location perhaps?">
-<meta itemprop=wordCount content="299">
+<meta itemprop=wordCount content="259">
 <meta itemprop=keywords content><meta name=twitter:card content="summary">
 <meta name=twitter:title content="Make The Final API">
 <meta name=twitter:description content="Yes, MakeTheFinal.ca has an API! (I know, finally, right?)
@@ -118,25 +118,76 @@ Make The Final API
     <span style=color:#960050;background-color:#1e0010>...</span>
   ]
 }
-</code></pre></div><pre tabindex=0><code>| Top Level
-| ----- | ------------------------------------------------------------- |
-| count | Total number of posts                                         |
-| date  | Date of the last change, ISO 8601 format                      |
-| posts | Array of all posts                                            |
-
-
-| Post
-| --------------- | ------------------------------------------------------------- |
-| title           | The quotation from Vic                                        |
-| date            | Date of this post, ISO 8601 format                            |
-| event           | The event the post was from, may be empty                     |
-| game            | The game the post was from, may be empty                      |
-| tags            | Post tags, in the format: [First tag, Second tag, Third]      |
-| contributor     | Name of the person who submitted this post (if not me)        |
-| contributorLink | URL to the person who submitted this post (if not me)         |
-| id              | Guaranteed to be unique per post, also serves as the URL slug |
-| url             | URL to the published post on https://makethefinal.ca          |
-</code></pre>
+</code></pre></div><h3 id=top-level>Top Level</h3>
+<table>
+<thead>
+<tr>
+<th style=text-align:left>Object</th>
+<th style=text-align:left>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=text-align:left>count</td>
+<td style=text-align:left>Total number of posts</td>
+</tr>
+<tr>
+<td style=text-align:left>date</td>
+<td style=text-align:left>Date of the last change, ISO 8601 format</td>
+</tr>
+<tr>
+<td style=text-align:left>posts</td>
+<td style=text-align:left>Array of all posts</td>
+</tr>
+</tbody>
+</table>
+<h3 id=post>Post</h3>
+<table>
+<thead>
+<tr>
+<th style=text-align:left>Object</th>
+<th style=text-align:left>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=text-align:left>title</td>
+<td style=text-align:left>The quotation from Vic</td>
+</tr>
+<tr>
+<td style=text-align:left>date</td>
+<td style=text-align:left>Date of this post, ISO 8601 format</td>
+</tr>
+<tr>
+<td style=text-align:left>event</td>
+<td style=text-align:left>The event the post was from, may be empty string</td>
+</tr>
+<tr>
+<td style=text-align:left>game</td>
+<td style=text-align:left>The game the post was from, may be empty string</td>
+</tr>
+<tr>
+<td style=text-align:left>tags</td>
+<td style=text-align:left>Post tags, in the format: [First tag, Second tag, Third]</td>
+</tr>
+<tr>
+<td style=text-align:left>contributor</td>
+<td style=text-align:left>Name of the person who submitted this post, may be empty string</td>
+</tr>
+<tr>
+<td style=text-align:left>contributorLink</td>
+<td style=text-align:left>URL to the person who submitted this post, may be empty string</td>
+</tr>
+<tr>
+<td style=text-align:left>id</td>
+<td style=text-align:left>Guaranteed to be unique per post, also serves as the URL slug</td>
+</tr>
+<tr>
+<td style=text-align:left>url</td>
+<td style=text-align:left>URL to the published post on <a href=https://makethefinal.ca>https://makethefinal.ca</a></td>
+</tr>
+</tbody>
+</table>
 </div>
 </article>
 </div>
