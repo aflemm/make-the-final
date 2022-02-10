@@ -45,23 +45,24 @@ Have fun!
 }
 ```
 
-```
-| Top Level
-| ----- | ------------------------------------------------------------- |
-| count | Total number of posts                                         |
-| date  | Date of the last change, ISO 8601 format                      |
-| posts | Array of all posts                                            |
+### Top Level
 
+| Object | Description                              |
+| :----- | :--------------------------------------- |
+| count  | Total number of posts                    |
+| date   | Date of the last change, ISO 8601 format |
+| posts  | Array of all posts                       |
 
-| Post
-| --------------- | ------------------------------------------------------------- |
+### Post
+
+| Object  | Description |
+| :-------------- | :------------------------------------------------------------ |
 | title           | The quotation from Vic                                        |
 | date            | Date of this post, ISO 8601 format                            |
-| event           | The event the post was from, may be empty                     |
-| game            | The game the post was from, may be empty                      |
+| event           | The event the post was from, may be empty string     |
+| game            | The game the post was from, may be empty string               |
 | tags            | Post tags, in the format: [First tag, Second tag, Third]      |
-| contributor     | Name of the person who submitted this post (if not me)        |
-| contributorLink | URL to the person who submitted this post (if not me)         |
+| contributor     | Name of the person who submitted this post, may be empty string |
+| contributorLink | URL to the person who submitted this post, may be empty string |
 | id              | Guaranteed to be unique per post, also serves as the URL slug |
 | url             | URL to the published post on https://makethefinal.ca          |
-```

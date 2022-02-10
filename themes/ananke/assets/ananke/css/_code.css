@@ -22,3 +22,14 @@ pre {
   hyphens: none;
   position: relative;
 }
+
+table, th, td {
+	vertical-align: top;
+	border-collapse: collapse;
+	border: 1px solid grey;
+	padding: 10px;
+}
+
+table {
+	width: 100%;
+}
