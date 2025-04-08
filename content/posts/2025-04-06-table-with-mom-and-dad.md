@@ -1,5 +1,5 @@
 ---
-title: "Forgive me if I feel like I’m sitting at the table with mom and dad"
+title: "Forgive me if I feel like I’m sitting at the table with Mom and Dad"
 date: 2025-04-06T17:10:25-04:00
 draft: false
 tags: ["2025 Men’s Worlds"]
